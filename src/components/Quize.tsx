@@ -53,7 +53,7 @@ const Quize = () => {
               value={item}
               control={<Radio />}
               label={item}
-              key={item}
+              key={index}
             />
           ))}
         </RadioGroup>
