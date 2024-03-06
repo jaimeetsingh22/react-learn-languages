@@ -1,5 +1,4 @@
 import { Button, Container, Stack, Typography } from "@mui/material";
-import { generate } from "random-words";
 import { useNavigate } from "react-router-dom";
 
 const languages = [
