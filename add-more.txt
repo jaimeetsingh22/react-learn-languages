@@ -1,0 +1,3 @@
+i will add a login page and a database to store the data of the user and also  I want to make sure that if someone tries to access any other page without logging in, they get redirected back to the login page.
+
+I have created an HTML file for the login page with two input fields (username & password) and a submit button. I want to make sure that when the user enters their username and password or make can make new user account. i will use firebase to store data
